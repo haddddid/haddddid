@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @haddddid
 - 👀 I’m interested in typeface design
-- 🌱 I’m currently learning typeface design
-- 💞️ I’m looking to collaborate on typeface design
 - 📫 How to reach me whyhadid@gmail.com
 
 <!---
